@@ -1,4 +1,3 @@
-layout_spectrum: 0.7638558887410909
 typography_spectrum: 0.3700229290407151
 color:
   brandStrength: 0.4972320895176381
@@ -6,9 +5,18 @@ color:
   saturation: 0.39500754489563406
   rhythmicContrast: 0.9354851532261819
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-name: Karisa Miranda (Photography)
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+opengraph:
+  type: Photography Page
+  appId: 'https://www.facebook.com/KarisaMirandaPhotography/'
+layout_spectrum: 0.7638558887410909
+author:
+  name: Karisa Miranda
+  email: photography@karisamiranda.com
+  url: www.karisamiranda.com
+name: Beyond Vignette
+title: Karisa Miranda
